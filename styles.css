@@ -19,7 +19,11 @@ header img {
 
 body {
     background-color: #021526;
-    margin: 0px;
+    margin: 0;
+}
+
+.contents {
+    margin: 10px;
 }
 
 header h1 {
@@ -87,5 +91,4 @@ footer {
     background-color: #03346E;
     text-align: center;
     padding: 20px
-
 }
