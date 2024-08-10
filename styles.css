@@ -20,6 +20,7 @@ header img {
 body {
     background-color: #021526;
     margin: 0;
+    height:100vh;
 }
 
 .contents {
@@ -57,6 +58,8 @@ header p {
     border-radius: 10px;
     background-color: #04408a;
     padding: 8px;
+    margin-bottom: 10px;
+
 }
 
 #bio h1 {
