@@ -7,7 +7,7 @@ header {
 }
 
 * {
-    font-family:'Gill Sans MT';
+    font-family: 'Trebuchet';
 }
 
 header img {
@@ -19,6 +19,7 @@ header img {
 
 body {
     background-color: #021526;
+    margin: 0px;
 }
 
 header h1 {
@@ -29,10 +30,9 @@ header p {
     font-size: 18px;
 }
 
-
-
 #about p {
     font-size: 18px;
+    text-align: justify;
     color: #dabe45 ;
 }
 
@@ -58,7 +58,6 @@ header p {
 #bio h1 {
     font-size: 24px;
     color: #dbc356;
-
 }
 
 #bio ul {
