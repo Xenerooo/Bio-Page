@@ -90,5 +90,24 @@ header p {
 footer {
     background-color: #03346E;
     text-align: center;
-    padding: 20px
+    color: aliceblue;
+
+
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    bottom: 0;
+}
+
+footer a {
+    text-decoration: none;
+    color: #dabe45 ;
+}
+
+footer h1 {
+    font-size: 20px;
+}
+
+footer a:hover {
+    color: #f0db7e ;
 }
